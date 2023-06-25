@@ -21,7 +21,7 @@
 ### Installation
 
 1. Visit the Google Play Store on your Android device.
-2. Search for "[¿Quién me llamó?](https://quien-llamo.es)".
+2. Search for "[¿Quién me llama?](https://quien-llamo.es)".
 3. Tap “Install” to download and install the app on your device.
 4. Open the app and grant the necessary permissions for the app to function properly.
 
