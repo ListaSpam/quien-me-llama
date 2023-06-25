@@ -1,7 +1,7 @@
 # quien te llama
 [¿Quién me llamó?](https://quien-llamo.es)
 
-![App Icon]([https://quien-llamo.es/gfx/logo-quien-llamo.png)
+![App Icon](https://quien-llamo.es/gfx/logo-quien-llamo.png)
 
 ¿Quién me llamó? is a mobile application designed to block unwanted phone calls. Whether you're receiving spam calls, robocalls, or just calls from numbers you don't want to talk to, Call Blocker is here to bring you peace of mind.
 
